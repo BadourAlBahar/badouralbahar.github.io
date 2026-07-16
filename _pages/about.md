@@ -10,9 +10,9 @@ redirect_from:
 About me
 ======
 
-I am an Assistant Professor in the Department of Computer Engineering at [Kuwait University](http://www.kuniv.edu.kw). My research interests are in the area of computer vision. I am particularly interested in controllable image synthesis. 
+I am an Assistant Professor in the Department of Computer Engineering at Kuwait University. My research interests lie in computer vision, deep learning, and artificial intelligence, particularly at the intersection of computer vision and generative AI, with a focus on controllable visual synthesis.
 
-You can find my CV [here](../files/cv_november_2023.pdf).
+You can find my CV [here](../files/cv_july_2026.pdf).
 
 Education
 ======
@@ -55,6 +55,20 @@ Research
 ======
 
 <table style="width:100%">
+
+  <tr>
+    <th>
+      <img src="../images/illusion3d_teaser.gif" width="350"/>
+    </th>
+    <th style="text-align:left">
+            Illusion3D: 3D Multiview Illusion with 2D Diffusion Priors<br>
+            <span style="font-size:16px"><span style="font-weight:normal">Yue Feng, Vaibhav Sanjay, Spencer Lutz, </span>Badour AlBahar<span style="font-weight:normal">, Songwei Ge, and Jia-Bin Huang</span></span><br>
+            <span style="font-weight:normal;font-size:16px">Preprint, 2024</span><br>
+            <span style="font-weight:normal;font-size:16px"><a href="https://3d-multiview-illusion.github.io/">project page</a> | <a href="https://arxiv.org/abs/2412.09625">paper</a></span>
+    </th>
+  </tr>
+
+
   <tr>
     <th>
       <img src="../images/humansgd.gif" width="350"/>
@@ -67,7 +81,19 @@ Research
     </th>
   </tr>
 
-  
+  <tr>
+    <th>
+      <img src="../images/textdriven_teaser.gif" width="350"/>
+    </th>
+    <th style="text-align:left">
+            Text-driven Visual Synthesis with Latent Diffusion Prior<br>
+            <span style="font-size:16px"><span style="font-weight:normal">Ting-Hsuan Liao, Songwei Ge, Yiran Xu, Yao-Chih Lee, </span>Badour AlBahar<span style="font-weight:normal">, and Jia-Bin Huang</span></span><br>
+            <span style="font-weight:normal;font-size:16px">Preprint, 2023</span><br>
+            <span style="font-weight:normal;font-size:16px"><a href="https://latent-diffusion-prior.github.io/">project page</a> | <a href="https://arxiv.org/abs/2302.08510">paper</a></span>
+    </th>
+  </tr>
+
+
   <tr>
     <th>
       <img src="../images/videogan_teaser.gif" width="350"/>
@@ -118,6 +144,33 @@ News
 <table style="width:100%">
   <col style="width:20%">
   <col style="width:80%">
+
+  <tr style="font-size:16px">
+    <th style="text-align:right">
+      <span style="font-weight:normal">June 2023</span>
+    </th>
+    <th style="text-align:left">
+      <span style="font-weight:normal">I joined Kuwait University as an Assistant Professor in the Department of Computer Engineering</span>
+    </th>
+  </tr>
+
+  <tr style="font-size:16px">
+    <th style="text-align:right">
+      <span style="font-weight:normal">March 2022</span>
+    </th>
+    <th style="text-align:left">
+      <span style="font-weight:normal">Invited speaker at the Women in Data Science (WiDS) Dhahran workshop, hosted at <a href="https://www.kfupm.edu.sa">KFUPM</a>, talk titled "Pose with Style"</span>
+    </th>
+  </tr>
+
+  <tr style="font-size:16px">
+    <th style="text-align:right">
+      <span style="font-weight:normal">Spring 2022</span>
+    </th>
+    <th style="text-align:left">
+      <span style="font-weight:normal">Gave an invited guest lecture, "Controllable Visual Synthesis," for CS4664 / Data-Centric Computing Capstone at Virginia Tech (instructor: Mohannad Elhamod)</span>
+    </th>
+  </tr>
   
   <tr style="font-size:16px">
     <th style="text-align:right">
